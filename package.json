@@ -1,0 +1,20 @@
+{
+  "name": "ruay.at",
+  "version": "1.0.0",
+  "description": "ruay สมัครเว็บรวย รวย สมัครหวยออนไลน์ เล่นหวยออนไลน์ เว็บรวย\r ## ruay เว็บรวย เว็บหวยออไลน์ อันดัน1 สมัครเข้าเล่นฟรี! กดสมัครเลย\r  ## 👉👉 [Ruay](https://bit.ly/3enAwNm) 👈👈\r  ## 👉👉 [เว็บรวย](https://bit.ly/3enAwNm) 👈👈\r  ## 👉👉 [สมัคร Ruay](https://bit.ly/3enAwNm) 👈👈\r  ## 👉👉 [สมัครเว็บรวย](https://bit.ly/3enAwNm) 👈👈\r  ## 👉👉 [เข้าเล่นเว็บรวยฟรี](https://bit.ly/3enAwNm) 👈👈",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basicjame1/ruay.at.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basicjame1/ruay.at/issues"
+  },
+  "homepage": "https://github.com/basicjame1/ruay.at#readme"
+}
